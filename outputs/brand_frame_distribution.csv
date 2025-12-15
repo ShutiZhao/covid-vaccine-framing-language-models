@@ -1,0 +1,17 @@
+brand_main,frame,n,prop
+AstraZeneca,conspiracy_misinfo,31,0.09281437125748503
+AstraZeneca,mandate_rights,36,0.10778443113772455
+AstraZeneca,medical,213,0.6377245508982036
+AstraZeneca,other,54,0.16167664670658682
+Moderna,conspiracy_misinfo,3,0.01485148514851485
+Moderna,mandate_rights,4,0.019801980198019802
+Moderna,medical,179,0.8861386138613861
+Moderna,other,16,0.07920792079207921
+Other,conspiracy_misinfo,1666,0.10831545413172096
+Other,mandate_rights,1867,0.12138352512840518
+Other,medical,9360,0.6085430076067876
+Other,other,2488,0.16175801313308627
+Pfizer,conspiracy_misinfo,38,0.04042553191489362
+Pfizer,mandate_rights,7,0.007446808510638298
+Pfizer,medical,850,0.9042553191489362
+Pfizer,other,45,0.047872340425531915
