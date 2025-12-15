@@ -8,6 +8,8 @@ The analysis focuses on whether vaccine-related tweets are framed primarily in *
 ---
 
 ## Repository Structure
+
+```
 .
 ├── data/
 │ ├── raw/
@@ -35,9 +37,10 @@ The analysis focuses on whether vaccine-related tweets are framed primarily in *
 │ ├── Politicization_or_Medicalization_.tex
 │ └── References.bib
 │
-├── project.Rproj # RStudio project file
+├── project.Rproj
 ├── .gitignore
 └── README.md
+```
 
 ---
 
